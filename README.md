@@ -1,9 +1,16 @@
-# laravel-practice
-This repository contains tools and examples for practicing Laravel.
+# Laravel Practice
 
-## Project Overview
-This project is aimed at providing a platform for practicing Laravel framework.
+This repository contains practice projects and exercises for Laravel framework.
+
+## Features
+- Sample Laravel projects for learning and experimentation.
+- Examples of CRUD operations, middleware, etc.
+
+## Technologies Used
+- PHP, Laravel
+
+## Usage
+Clone the repository and set up the Laravel environment to run the projects.
 
 ## Future Plans
-- Add more practice exercises.
-- Provide detailed explanations and usage notes.
+- Add more comprehensive projects and tutorials.
