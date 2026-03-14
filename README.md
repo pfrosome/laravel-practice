@@ -14,3 +14,4 @@ Clone the repository and set up the Laravel environment to run the projects.
 
 ## Future Plans
 - Add more comprehensive projects and tutorials.
+- Include deployment instructions for each project.
